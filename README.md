@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# CELO DEVS
+
+A data-driven blockchain metrics portal for developer activity within the Celo ecosystem.
+
+Live demo at [Celo Devs](https://celodevs.com) Another demo link [here](https://celo-devs.vercel.app)
+
+## Criteria to identify developers
+
+Used [Electric Capital](https://electric-capital.github.io), [CeloHub](https://celohub.org) and NFT collections at [TofuNFT](https://tofunft.com) to identify developers in the Celo ecosystem.
+
+## Tech Stack
+
+This project uses Create React App, React Router v6, TailwindCSS, GraphQL GitHub API, Apollo Client 3, and Pinata Cloud to store some images.
+
+## License
+
+The code is licensed under a MIT License.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
