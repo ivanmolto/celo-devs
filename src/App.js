@@ -1,25 +1,36 @@
-import logo from './logo.svg';
-import './App.css';
+import { Routes, Route } from "react-router-dom";
+import Layout from "./Layout";
+import Home from "./Home";
+import ReFi from "./ReFi";
+import DeFi from "./DeFi";
+import Repos from "./Repos";
+import Handle from "./Handle";
+import Staking from "./Staking";
+import Nfts from "./Nfts";
+import StableTokens from "./StableTokens";
+import Governance from "./Governance";
+import TokenEconomics from "./TokenEconomics";
+import NoMatch from "./NoMatch";
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Routes>
+      <Route path="/" element={<Layout />}>
+        <Route index element={<Home />} />
+        <Route path="refi" element={<ReFi />} />
+        <Route path="defi" element={<DeFi />} />
+        <Route path="staking" element={<Staking />} />
+        <Route path="nfts" element={<Nfts />} />
+        <Route path="stabletokens" element={<StableTokens />} />
+        <Route path="governance" element={<Governance />} />
+        <Route path="tokenomics" element={<TokenEconomics />} />
+        <Route path="repos" element={<Repos />}>
+          <Route path=":handleId" element={<Handle />} />
+        </Route>
+        <Route path="*" element={<NoMatch />} />
+      </Route>
+    </Routes>
   );
-}
+};
 
 export default App;
