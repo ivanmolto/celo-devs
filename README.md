@@ -4,6 +4,8 @@ A data-driven blockchain metrics portal for developer activity within the Celo e
 
 Live demo at [Celo Devs](https://celodevs.com) Another demo link [here](https://celo-devs.vercel.app)
 
+This is a submission for the Celo Playgrounds hackathon at Gitcoin.
+
 ## Criteria to identify developers
 
 Used [Electric Capital](https://electric-capital.github.io), [CeloHub](https://celohub.org) and NFT collections at [TofuNFT](https://tofunft.com) to identify developers in the Celo ecosystem.
