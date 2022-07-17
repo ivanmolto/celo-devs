@@ -39,6 +39,15 @@ const projects = [
     ],
     imageUrl: "https://avatars.githubusercontent.com/u/37552875?s=200&v=4",
   },
+  {
+    name: "Grameen Foundation",
+    handle: "grameenfoundation",
+    link: "http://www.grameenfoundation.org",
+    description: "",
+    tags: "ngo",
+    repos: [{ name: "applab-ug.search-ussd" }],
+    imageUrl: "https://avatars.githubusercontent.com/u/1202979?s=200&v=4",
+  },
 ];
 
 const StableTokens = () => {
