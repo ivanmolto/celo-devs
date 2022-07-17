@@ -8,7 +8,7 @@ This is a submission for the Celo Playgrounds hackathon at Gitcoin.
 
 ## Criteria to identify developers
 
-Used [Electric Capital](https://electric-capital.github.io), [CeloHub](https://celohub.org) and NFT collections at [TofuNFT](https://tofunft.com) to identify developers in the Celo ecosystem.
+Used [Electric Capital Crypto Ecosystems](https://electric-capital.github.io), [CeloHub](https://celohub.org) and NFT collections at [TofuNFT](https://tofunft.com) to identify developers in the Celo ecosystem.
 
 ## Tech Stack
 
