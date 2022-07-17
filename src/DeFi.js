@@ -197,7 +197,7 @@ const projects = [
       { name: "tx-manager" },
       { name: "moola" },
       { name: "multicall" },
-      { name: "pool-stduio" },
+      { name: "pool-studio" },
       { name: "ubeswap-governance" },
       { name: "savingscelo" },
     ],
