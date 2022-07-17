@@ -33,7 +33,7 @@ const categories = [
   },
   {
     id: 5,
-    name: "Stabletokens",
+    name: "Stable Tokens",
     href: "/stabletokens",
     imageSrc:
       "https://ivanmolto.mypinata.cloud/ipfs/Qmb87WboH5t9gB3hLN2MfbobNoACgMJT9T6SRsUG19n4FK",
