@@ -45,7 +45,7 @@ const categories = [
     href: "/governance",
     imageSrc:
       "https://ivanmolto.mypinata.cloud/ipfs/QmQfWPoyPRDC4rrDXbf1JvQGkk5iv8AS7fLdiWZGgbPkfw",
-    imageAlt: "Governance - Design for All",
+    imageAlt: "Governance - Design For All",
   },
   {
     id: 7,
