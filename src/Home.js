@@ -37,7 +37,7 @@ const categories = [
     href: "/stabletokens",
     imageSrc:
       "https://ivanmolto.mypinata.cloud/ipfs/Qmb87WboH5t9gB3hLN2MfbobNoACgMJT9T6SRsUG19n4FK",
-    imageAlt: "Stabletokens - Mobile Penetration",
+    imageAlt: "Stable tokens - Mobile Penetration",
   },
   {
     id: 6,
