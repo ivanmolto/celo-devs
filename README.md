@@ -2,6 +2,8 @@
 
 A data-driven blockchain metrics portal for developer activity within the Celo ecosystem.
 
+Celo Playgrounds hackathon at Gitcoin winner 🏆
+
 Live demo at [Celo Devs](https://celodevs.com) Another demo link [here](https://celo-devs.vercel.app)
 
 This is a submission for the Celo Playgrounds hackathon at Gitcoin.
